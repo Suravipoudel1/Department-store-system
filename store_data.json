@@ -1,0 +1,44 @@
+{
+    "Grocery": {
+        "Rice": {
+            "qty": 8,
+            "price": 50
+        },
+        "Sugar": {
+            "qty": 5,
+            "price": 40
+        },
+        "Salt": {
+            "qty": 8,
+            "price": 20
+        }
+    },
+    "Electronics": {
+        "TV": {
+            "qty": 1,
+            "price": 30000
+        },
+        "Headphones": {
+            "qty": 5,
+            "price": 1500
+        },
+        "Laptop": {
+            "qty": 2,
+            "price": 55000
+        }
+    },
+    "Clothing": {
+        "T-Shirt": {
+            "qty": 6,
+            "price": 500
+        },
+        "Jeans": {
+            "qty": 1,
+            "price": 1200
+        },
+        "Jacket": {
+            "qty": 2,
+            "price": 2000
+        }
+    }
+}
